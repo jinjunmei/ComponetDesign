@@ -6,3 +6,7 @@
 
 + [iOS 组件化方案探索](http://blog.cnbang.net/tech/3080/)
 > 本文是**JSPatch**的作者邦对组件化的几种方案的探索
+
+#### 开源的架构：
++ [阿里巴巴开源的模块化架构方案](https://github.com/alibaba/BeeHive)
++ [casatwy开源的组件化方案](https://github.com/casatwy/CTMediator)
